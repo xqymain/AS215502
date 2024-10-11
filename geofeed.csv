@@ -1,7 +1,13 @@
 2a13:aac4:f000::/44,HK,,Central and Western,
 2a13:aac4:f00c::/48,HK,,Central and Western,
+2a0a:6044:b840::/44,HK,,Central and Western,
+2a0a:6044:b850::/44,HK,,Wan Chai,
 2a13:aac4:f00d::/48,US,US-NV,Las Vegas,89119
 2a06:9f81:4610::/44,JP,JP-13,Toyko,151-0053
+2a0a:6044:b810::/44,JP,JP-13,Toyko,151-0053
 2a06:9f81:4620::/44,DE,DE-HE,Frankfurt,60326
+2a0a:6044:b820::/44,DE,DE-HE,Frankfurt,60326
 2a06:9f81:4640::/44,US,US-NV,Las Vegas,89119
+2a0a:6044:b800::/44,US,US-NV,Las Vegas,89119
 2a06:9f81:4650::/44,SG,SG-01,Singapore,
+2a0a:6044:b830::/44,SG,SG-01,Singapore,
