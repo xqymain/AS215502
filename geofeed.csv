@@ -1,12 +1,16 @@
 2a13:aac4:f000::/44,HK,,Central and Western,
 2a13:aac4:f00c::/48,HK,,Central and Western,
-2a13:aac4:f00d::/48,US,US-NV,Las Vegas,89119
 2a06:9f81:4600::/44,TW,TW-TPE,Taipei,
-2a06:9f81:460a::/48,TW,TW-TPE,Taipei,
 2a06:9f81:4610::/44,JP,JP-13,Tokyo,151-0053
 2a06:9f81:4620::/44,DE,DE-HE,Frankfurt,
 2a06:9f81:4640::/44,US,US-NV,Las Vegas,89119
 2a06:9f81:4650::/44,NL,NL-NH,Amsterdam,
+2a0f:6280:1400::/44,TW,TW-TPE,Taipei,
+2a0f:6280:1410::/44,JP,JP-13,Tokyo,151-0053
+2a0f:6280:1420::/44,DE,DE-HE,Frankfurt,
+2a0f:6280:1430::/44,GB,GB-WLV,Wolverhampton,
+2a0f:6280:1440::/44,US,US-NV,Las Vegas,89119
+2a0f:6280:1450::/44,NL,NL-NH,Amsterdam,
 2a0f:6284:4c00::/44,SG,,Singapore,
 2a0f:6284:4c30::/48,KR,KR-11,Seoul,
 2a0f:6284:4c40::/44,TW,TW-TPE,Taipei,
